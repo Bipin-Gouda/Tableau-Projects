@@ -1,5 +1,5 @@
 # Tableau-Projects
-Covid-19 Dashboard
+1. Covid-19 Dashboard
 
  Image - 1
  
