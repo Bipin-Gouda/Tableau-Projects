@@ -1,4 +1,4 @@
-# Tableau-Projects : Dashboards made with thes help of Tableau to garner insights on Data Analysis Problems
+# Tableau-Projects : Dashboards made with the help of Tableau to garner insights on Data Analysis Problems
 1. Covid-19 Dashboard
 
  Image - 1
